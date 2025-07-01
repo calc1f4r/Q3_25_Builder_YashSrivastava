@@ -1,0 +1,6 @@
+# Rust
+/target
+.DS_Store
+
+# Wallets
+*.json 
